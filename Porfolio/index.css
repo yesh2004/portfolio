@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+body{
+	font-family: Oswald ;
+	padding:0;
+	margin:0;
+}
+
+.navbar{
+	background-color: #fc6868 !important;
+
+}
+.items a{
+	color:#fff  !important;
+	font-size: 20px;
+	
+
+
+
+}
+.items{
+	padding-right: 10px;
+
+}
+.navbar-brand{
+	color:#fff  !important;
+	font-size: 25px;
+	font-weight: 550;
+
+}
+.hero{
+	margin-top: 100px;
+}
+.hero-img{
+	height: 500px;
+	width:100%;
+}
+.hero-info{
+	margin-top:100px;
+}
+.info{
+	margin-top:140px;
+	background-color: #FC6868;
+}
+.info1{
+	box-shadow:  5px 10px #888888;
+}
+.info-img{
+	height: 500px;
+	width: 100%;
+	
+}
+.info1-info{
+	margin-top: 100px
+}
+#desc{
+	font-size: 22px;
+}
+.contact{
+	margin-top:50px;
+
+}
+.contact2{
+	margin-top: 50px;
+}
+#email{
+	height:50px;
+}
